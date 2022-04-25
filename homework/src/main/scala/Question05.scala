@@ -1,3 +1,3 @@
-object Q01 extends App {
-  println("Hello, World!")
+object Q05 extends App {
+  
 }
